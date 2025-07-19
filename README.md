@@ -8,10 +8,6 @@ I am currently exploring the world of programming and development. I enjoy worki
 
 ## Skills & Technologies
 
-### 🚀 My Tech Stack
-
-### 🚀 My Tech Stack
-
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" height="40" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="40" />
