@@ -76,9 +76,11 @@ No blog posts available yet. Stay tuned!
 ## Connect with Me
 
 +967711184362
+
 amgadqasem470@gmail.com
 
 ## My Talks
 
 Arabic 
+
 English
