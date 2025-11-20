@@ -1,86 +1,36 @@
-## Hi there! 👋
+👋 Hi there!
 
-I’m Amgad Qasem, a passionate developer with a love for creating innovative solutions. Whether it’s building web applications or developing mobile apps, I’m always eager to learn, explore new technologies, and grow in my journey as a mobile and web developer.
+I’m Amgad Qasem, a passionate Flutter Developer focused on building seamless, high-performance mobile applications. I love transforming ideas into real apps with clean UI, smooth animations, and scalable architectures.
 
-## About Me
+🚀 About Me
 
-I am currently exploring the world of programming and development. I enjoy working with Dart, Flutter, and HTML, and I have experience in building web applications using CSS and Bootstrap. I am also expanding my skills in Laravel, Firebase, and Supabase to build robust full-stack solutions. While I am still growing my profile, I am enthusiastic about collaborating with others and learning from the tech community to enhance my development journey.
+I specialize in cross-platform mobile development using Flutter.
+I enjoy working with Dart, managing app state using tools like Provider, Bloc, and GetX, and integrating powerful backend services such as Firebase and Supabase.
 
-## Skills & Technologies
+I’m continuously learning and improving—whether it's architecture patterns, performance optimization, or crafting beautiful user interfaces. I’m excited to collaborate, build impactful apps, and grow within the Flutter community.
 
-### 🚀 My Tech Stack
+🛠️ Tech Stack (Flutter-Focused)
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center;"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="50" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="50" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="50" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="50" /> <img src="https://img.shields.io/badge/State%20Management-BLoC%20|%20Provider%20|%20GetX-blue?style=for-the-badge" height="50" /> </p>
+📂 Top Projects (Flutter / Dart Focus)
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center;">
+learn-dart — A repository dedicated to learning Dart.
+Stars: 0 | Language: Dart | Forks: 0 | Issues: 0
 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=00000000&borderRadius=10" alt="Dart" height="50" />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=00000000&borderRadius=10" alt="HTML5" height="50" />
-  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=00000000&borderRadius=10" alt="Flutter" height="50" />
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=00000000&borderRadius=10" alt="Python" height="50" />
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00000000&borderRadius=10" alt="JavaScript" height="50" />
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=00000000&borderRadius=10" alt="CSS3" height="50" />
-  
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=00000000&borderRadius=10" alt="Laravel" height="50" />
-  
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=00000000&borderRadius=10" alt="Bootstrap" height="50" />
-  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=00000000&borderRadius=10" alt="Firebase" height="50" />
-  
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=00000000&borderRadius=10" alt="Supabase" height="50" />
+money-exchange — A simple currency conversion calculator
+(Dart / Flutter version coming soon)
 
-</p>
+store, e-commerce, Basharphotography
+(Legacy web projects — no longer the focus)
 
+📊 GitHub Stats
 
+📱 Contact Me
 
-## Top Projects
+📞 +967711184362
+📧 amgadqasem470@gmail.com
 
-- [learn-dart](https://github.com/AmgadQasem/learn-dart) - A repository dedicated to learning Dart. 
-  Stars: 0 | Language: Dart | Forks: 0 | Issues: 0
+ My Talks
 
-- [money-exchange](https://github.com/AmgadQasem/money-exchange) - A simple money exchange calculator. 
-  Stars: 0 | Language: HTML | Forks: 0 | Issues: 0
-
-- [store](https://github.com/AmgadQasem/store) - A basic store application. 
-  Stars: 0 | Language: HTML | Forks: 0 | Issues: 0
-
-- [e-commerce](https://github.com/AmgadQasem/e-commerce) - An e-commerce website template. 
-  Stars: 0 | Language: HTML | Forks: 0 | Issues: 0
-
-- [Basharphotography](https://github.com/AmgadQasem/Basharphotography) - A personal photography portfolio site. 
-  Stars: 0 | Language: CSS | Forks: 0 | Issues: 0
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmgadQasem&show_icons=true&theme=radical)
-
-- **Public Repositories:** 9
-- **Followers:** 0
-- **Following:** 0
-
-## Recent Activity
-
-- Pushed to [learn-dart](https://github.com/AmgadQasem/learn-dart)
-- Created a new repository [money-exchange](https://github.com/AmgadQasem/money-exchange)
-- Updated [store](https://github.com/AmgadQasem/store)
-- Opened issues in [e-commerce](https://github.com/AmgadQasem/e-commerce)
-- Contributed to [Basharphotography](https://github.com/AmgadQasem/Basharphotography)
-
-## Latest Blog Posts
-
-No blog posts available yet. Stay tuned!
-
-## Connect with Me
-
-+967711184362
-
-amgadqasem470@gmail.com
-
-## My Talks
-
-Arabic 
+Arabic
 
 English
